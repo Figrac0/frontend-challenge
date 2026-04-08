@@ -3,7 +3,7 @@
 Финальная реализация тестового задания для Front-end стажировки Учи.ру.
 
 <div align="center">
-  <a href="https://vk-pinterest.vercel.app/" target="_blank">
+  <a href="https://figrac0.github.io/frontend-challenge/" target="_blank">
     <img
       src="https://github.com/Figrac0/Figrac0/blob/main/href.svg"
       alt="Quick Access - Visit Site"
@@ -26,13 +26,13 @@
 
 |                                            1                                            |                                            2                                            |
 | :-------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Figrac0/VK-task/blob/Pinterest/gitres/1.png" width="600"/> | <img src="https://github.com/Figrac0/VK-task/blob/Pinterest/gitres/2.png" width="600"/> |
-| <img src="https://github.com/Figrac0/VK-task/blob/Pinterest/gitres/3.png" width="600"/> | <img src="https://github.com/Figrac0/VK-task/blob/Pinterest/gitres/4.png" width="600"/> |
+| <img src="https://github.com/Figrac0/frontend-challenge/blob/master/gitres/1.png" width="600"/> | <img src="https://github.com/Figrac0/frontend-challenge/blob/master/gitres/2.png" width="600"/> |
+| <img src="https://github.com/Figrac0/frontend-challenge/blob/master/gitres/3.png" width="600"/> | <img src="https://github.com/Figrac0/frontend-challenge/blob/master/gitres/4.png" width="600"/> |
 
 <br/>
 
 <p align="center">
-  <img src="https://github.com/Figrac0/VK-task/blob/Pinterest/gitres/main.gif" width="900"/>
+  <img src="https://github.com/Figrac0/frontend-challenge/blob/master/gitres/main.gif" width="900"/>
 </p>
 
   </details>
